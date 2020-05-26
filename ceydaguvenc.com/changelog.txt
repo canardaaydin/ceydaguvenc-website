@@ -1,0 +1,12 @@
+Version 1.2.1
+Fixed:
+- Styles
+
+Version 1.2.0
+Fixed:
+- Styles
+
+Version 1.1 Fixed Responsive
+
+
+Version 1.0 Release
